@@ -1,12 +1,21 @@
-# Button Based Delay
-Now that you have begun to familiarize yourself with the TIMER modules, why don't we make an interesting change to our code from the last lab.
+# Button based delay
 
-## Task
-Setup your microcontroller to initially blink and LED at a rate of 10Hz upon restarting or powering up. Then utilizing one of the buttons on board, a user should be able to set the delay or blinking rate of the LED by holding down a button. The duration in which the button is depressed should then become the new rate at which the LED blinks. As previously stated, you most likely will want to take advantage of the fact that TIMER modules exist and see if you can let them do a bulk of the work for you.
+Toggles the LED on the launchpad continuously, depending on how long the button was pressed.
 
-### Extra Work
-## Reset Button
-What is a piece of electronics without a reset button? Instead of relying on resetting your processor using the built in reset circuitry, why not instead use another button to reset the rate back to 10Hz.
+The MSP430G2553 and MSP430F5529 are officially supported, and the source code is in the g2553 and f5529 folders, respectivly.
 
-## Button Based Hertz
-Most likely using two buttons, what if instead of making a delay loop based on the time, the user could instead enter a mode where the number of times they pressed the button would become the number in Hz of the blinking rate? How do you think you would implement that with just one button?
+# Usage
+
+By default, this uses P1.2 for the led and P1.1 for the button for the f5529 and P1.6 for the led and P1.2 for the button on the g2553.
+
+Note that the g2553 does not have a button on P1.2. You will need to install a jumper between P1.2 and P1.3 to use the onboard button. A jumper can be obtained from the bank of jumpers that connects the g2553 to the programmer. Use something like TXD since that is not used to program the g2553.
+Note that the f5529 does not have a led on P1.2. You will have to run a jumper from P1.2 to the led.
+
+# Compiling and uploading
+
+Ensure that you have msp430gcc installed. In particular, `msp430-elf-gcc` and `msp430-elf-objcopy` are used to compile the program and convert the elf to a hex for uploading.
+
+To flash the msp430, you will need the official TI MSP Flasher installed. It will need to be avaiable as `mspflash`. This allows a wrapper script to set the `LD_LIBRARY_PATH` correctly for MSP Flasher.
+
+Simply type `make` in the correct directory for your processor, and the program will be compiled and uploaded to an attached Launchpad.
+
