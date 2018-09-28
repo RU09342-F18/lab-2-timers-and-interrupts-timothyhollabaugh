@@ -1,0 +1,496 @@
+Wed Sep 12 16:50:03 2018:	* -----/|-------------------------------------------------------------------- *
+Wed Sep 12 16:50:03 2018:	*     / |__                                                                   *
+Wed Sep 12 16:50:03 2018:	*    /_   /   MSP Flasher v1.3.18                                             *
+Wed Sep 12 16:50:03 2018:	*      | /                                                                    *
+Wed Sep 12 16:50:03 2018:	* -----|/-------------------------------------------------------------------- *
+Wed Sep 12 16:50:03 2018:	*
+Wed Sep 12 16:50:03 2018:	* Evaluating triggers...done
+Wed Sep 12 16:50:03 2018:	* Checking for available FET debuggers: 
+Wed Sep 12 16:50:03 2018:	* Couldn't find any connected USB FETs!
+Wed Sep 12 16:50:03 2018:	* Starting target code execution...done
+Wed Sep 12 16:50:03 2018:	* Disconnecting from device...done
+Wed Sep 12 16:50:03 2018:	* 
+Wed Sep 12 16:50:03 2018:	* ----------------------------------------------------------------------------
+Wed Sep 12 16:50:03 2018:	* Driver      : closed (MSP DebugStack not initialized)
+Wed Sep 12 16:50:03 2018:	* ----------------------------------------------------------------------------
+Wed Sep 12 16:50:03 2018:	*/
+Wed Sep 12 16:50:18 2018:	* -----/|-------------------------------------------------------------------- *
+Wed Sep 12 16:50:18 2018:	*     / |__                                                                   *
+Wed Sep 12 16:50:18 2018:	*    /_   /   MSP Flasher v1.3.18                                             *
+Wed Sep 12 16:50:18 2018:	*      | /                                                                    *
+Wed Sep 12 16:50:18 2018:	* -----|/-------------------------------------------------------------------- *
+Wed Sep 12 16:50:18 2018:	*
+Wed Sep 12 16:50:18 2018:	* Evaluating triggers...done
+Wed Sep 12 16:50:18 2018:	* Checking for available FET debuggers: 
+Wed Sep 12 16:50:18 2018:	* Couldn't find any connected USB FETs!
+Wed Sep 12 16:50:18 2018:	* Starting target code execution...done
+Wed Sep 12 16:50:18 2018:	* Disconnecting from device...done
+Wed Sep 12 16:50:18 2018:	* 
+Wed Sep 12 16:50:18 2018:	* ----------------------------------------------------------------------------
+Wed Sep 12 16:50:18 2018:	* Driver      : closed (MSP DebugStack not initialized)
+Wed Sep 12 16:50:18 2018:	* ----------------------------------------------------------------------------
+Wed Sep 12 16:50:18 2018:	*/
+Wed Sep 12 16:50:26 2018:	* -----/|-------------------------------------------------------------------- *
+Wed Sep 12 16:50:26 2018:	*     / |__                                                                   *
+Wed Sep 12 16:50:26 2018:	*    /_   /   MSP Flasher v1.3.18                                             *
+Wed Sep 12 16:50:26 2018:	*      | /                                                                    *
+Wed Sep 12 16:50:26 2018:	* -----|/-------------------------------------------------------------------- *
+Wed Sep 12 16:50:26 2018:	*
+Wed Sep 12 16:50:26 2018:	* Evaluating triggers...done
+Wed Sep 12 16:50:26 2018:	* Checking for available FET debuggers: 
+Wed Sep 12 16:50:26 2018:	* Couldn't find any connected USB FETs!
+Wed Sep 12 16:50:26 2018:	* Starting target code execution...done
+Wed Sep 12 16:50:26 2018:	* Disconnecting from device...done
+Wed Sep 12 16:50:26 2018:	* 
+Wed Sep 12 16:50:26 2018:	* ----------------------------------------------------------------------------
+Wed Sep 12 16:50:26 2018:	* Driver      : closed (MSP DebugStack not initialized)
+Wed Sep 12 16:50:26 2018:	* ----------------------------------------------------------------------------
+Wed Sep 12 16:50:26 2018:	*/
+Wed Sep 12 16:52:01 2018:	* -----/|-------------------------------------------------------------------- *
+Wed Sep 12 16:52:01 2018:	*     / |__                                                                   *
+Wed Sep 12 16:52:01 2018:	*    /_   /   MSP Flasher v1.3.18                                             *
+Wed Sep 12 16:52:01 2018:	*      | /                                                                    *
+Wed Sep 12 16:52:01 2018:	* -----|/-------------------------------------------------------------------- *
+Wed Sep 12 16:52:01 2018:	*
+Wed Sep 12 16:52:01 2018:	* Evaluating triggers...done
+Wed Sep 12 16:52:01 2018:	* Checking for available FET debuggers: 
+Wed Sep 12 16:52:01 2018:	* Couldn't find any connected USB FETs!
+Wed Sep 12 16:52:01 2018:	* Starting target code execution...done
+Wed Sep 12 16:52:01 2018:	* Disconnecting from device...done
+Wed Sep 12 16:52:01 2018:	* 
+Wed Sep 12 16:52:01 2018:	* ----------------------------------------------------------------------------
+Wed Sep 12 16:52:01 2018:	* Driver      : closed (MSP DebugStack not initialized)
+Wed Sep 12 16:52:01 2018:	* ----------------------------------------------------------------------------
+Wed Sep 12 16:52:01 2018:	*/
+Wed Sep 12 17:00:22 2018:	* -----/|-------------------------------------------------------------------- *
+Wed Sep 12 17:00:22 2018:	*     / |__                                                                   *
+Wed Sep 12 17:00:22 2018:	*    /_   /   MSP Flasher v1.3.18                                             *
+Wed Sep 12 17:00:22 2018:	*      | /                                                                    *
+Wed Sep 12 17:00:22 2018:	* -----|/-------------------------------------------------------------------- *
+Wed Sep 12 17:00:22 2018:	*
+Wed Sep 12 17:00:22 2018:	* Evaluating triggers...done
+Wed Sep 12 17:00:22 2018:	* Checking for available FET debuggers: 
+Wed Sep 12 17:00:22 2018:	* Couldn't find any connected USB FETs!
+Wed Sep 12 17:00:22 2018:	* Starting target code execution...done
+Wed Sep 12 17:00:22 2018:	* Disconnecting from device...done
+Wed Sep 12 17:00:22 2018:	* 
+Wed Sep 12 17:00:22 2018:	* ----------------------------------------------------------------------------
+Wed Sep 12 17:00:22 2018:	* Driver      : closed (MSP DebugStack not initialized)
+Wed Sep 12 17:00:22 2018:	* ----------------------------------------------------------------------------
+Wed Sep 12 17:00:22 2018:	*/
+Wed Sep 12 17:01:12 2018:	* -----/|-------------------------------------------------------------------- *
+Wed Sep 12 17:01:12 2018:	*     / |__                                                                   *
+Wed Sep 12 17:01:12 2018:	*    /_   /   MSP Flasher v1.3.18                                             *
+Wed Sep 12 17:01:12 2018:	*      | /                                                                    *
+Wed Sep 12 17:01:12 2018:	* -----|/-------------------------------------------------------------------- *
+Wed Sep 12 17:01:12 2018:	*
+Wed Sep 12 17:01:12 2018:	* Evaluating triggers...done
+Wed Sep 12 17:01:12 2018:	* Checking for available FET debuggers: 
+Wed Sep 12 17:01:12 2018:	* Found USB FET @ ttyACM0 <- Selected
+Wed Sep 12 17:01:12 2018:	* Initializing interface @ ttyACM0...done
+Wed Sep 12 17:01:13 2018:	* Checking firmware compatibility: 
+Wed Sep 12 17:01:13 2018:	* FET firmware is up to date.
+Wed Sep 12 17:01:13 2018:	* Reading FW version...done
+Wed Sep 12 17:01:13 2018:	* Setting VCC to 3000 mV...done
+Wed Sep 12 17:01:15 2018:	* Accessing device...done
+Wed Sep 12 17:01:15 2018:	* Reading device information...
+Wed Sep 12 17:01:15 2018:	* Warning: Found device does not match -n selection:
+Wed Sep 12 17:01:15 2018:	- Selected: MSP430G2253
+Wed Sep 12 17:01:15 2018:	- Found:    MSP430G2xx3
+Wed Sep 12 17:01:15 2018:	- Continue? (Y/N): Wed Sep 12 17:01:21 2018:	y
+Wed Sep 12 17:01:21 2018:	* Loading file into device...done
+Wed Sep 12 17:01:24 2018:	* Verifying memory (msp430g2253.hex)...done
+Wed Sep 12 17:01:25 2018:	* 
+Wed Sep 12 17:01:25 2018:	* ----------------------------------------------------------------------------
+Wed Sep 12 17:01:25 2018:	* Arguments   : -n MSP430G2253 -w msp430g2253.hex -v -z [VCC] 
+Wed Sep 12 17:01:25 2018:	* ----------------------------------------------------------------------------
+Wed Sep 12 17:01:25 2018:	* Driver      : loaded
+Wed Sep 12 17:01:25 2018:	* Dll Version : 31300001
+Wed Sep 12 17:01:25 2018:	* FwVersion   : 31200000
+Wed Sep 12 17:01:25 2018:	* Interface   : TIUSB
+Wed Sep 12 17:01:25 2018:	* HwVersion   : E 6.0
+Wed Sep 12 17:01:25 2018:	* JTAG Mode   : AUTO
+Wed Sep 12 17:01:25 2018:	* Device      : MSP430G2xx3
+Wed Sep 12 17:01:25 2018:	* EEM         : Level 1, ClockCntrl 1
+Wed Sep 12 17:01:25 2018:	* Erase Mode  : ERASE_ALL
+Wed Sep 12 17:01:25 2018:	* Prog.File   : msp430g2253.hex
+Wed Sep 12 17:01:25 2018:	* Verified    : TRUE
+Wed Sep 12 17:01:25 2018:	* BSL Unlock  : FALSE
+Wed Sep 12 17:01:25 2018:	* InfoA Access: FALSE
+Wed Sep 12 17:01:25 2018:	* VCC ON      : 3000 mV
+Wed Sep 12 17:01:25 2018:	* ----------------------------------------------------------------------------
+Wed Sep 12 17:01:25 2018:	* Starting target code execution...done
+Wed Sep 12 17:01:25 2018:	* Disconnecting from device...done
+Wed Sep 12 17:01:25 2018:	* 
+Wed Sep 12 17:01:25 2018:	* ----------------------------------------------------------------------------
+Wed Sep 12 17:01:25 2018:	* Driver      : closed (No error)
+Wed Sep 12 17:01:25 2018:	* ----------------------------------------------------------------------------
+Wed Sep 12 17:01:25 2018:	*/
+Wed Sep 12 17:01:56 2018:	* -----/|-------------------------------------------------------------------- *
+Wed Sep 12 17:01:56 2018:	*     / |__                                                                   *
+Wed Sep 12 17:01:56 2018:	*    /_   /   MSP Flasher v1.3.18                                             *
+Wed Sep 12 17:01:56 2018:	*      | /                                                                    *
+Wed Sep 12 17:01:56 2018:	* -----|/-------------------------------------------------------------------- *
+Wed Sep 12 17:01:56 2018:	*
+Wed Sep 12 17:01:56 2018:	* Evaluating triggers...done
+Wed Sep 12 17:01:56 2018:	* Checking for available FET debuggers: 
+Wed Sep 12 17:01:57 2018:	* Found USB FET @ ttyACM0 <- Selected
+Wed Sep 12 17:01:57 2018:	* Initializing interface @ ttyACM0...done
+Wed Sep 12 17:01:57 2018:	* Checking firmware compatibility: 
+Wed Sep 12 17:01:57 2018:	* FET firmware is up to date.
+Wed Sep 12 17:01:57 2018:	* Reading FW version...done
+Wed Sep 12 17:01:57 2018:	* Setting VCC to 3000 mV...done
+Wed Sep 12 17:01:58 2018:	* Accessing device...done
+Wed Sep 12 17:01:58 2018:	* Reading device information...
+Wed Sep 12 17:01:58 2018:	* Warning: Found device does not match -n selection:
+Wed Sep 12 17:01:58 2018:	- Selected: MSP430G2253
+Wed Sep 12 17:01:58 2018:	- Found:    MSP430G2xx3
+Wed Sep 12 17:01:58 2018:	- Continue? (Y/N): Wed Sep 12 17:01:59 2018:	y
+Wed Sep 12 17:01:59 2018:	* Loading file into device...done
+Wed Sep 12 17:02:02 2018:	* Verifying memory (msp430g2253.hex)...done
+Wed Sep 12 17:02:02 2018:	* 
+Wed Sep 12 17:02:02 2018:	* ----------------------------------------------------------------------------
+Wed Sep 12 17:02:02 2018:	* Arguments   : -n MSP430G2253 -w msp430g2253.hex -v -z [VCC] 
+Wed Sep 12 17:02:02 2018:	* ----------------------------------------------------------------------------
+Wed Sep 12 17:02:02 2018:	* Driver      : loaded
+Wed Sep 12 17:02:02 2018:	* Dll Version : 31300001
+Wed Sep 12 17:02:02 2018:	* FwVersion   : 31200000
+Wed Sep 12 17:02:02 2018:	* Interface   : TIUSB
+Wed Sep 12 17:02:02 2018:	* HwVersion   : E 6.0
+Wed Sep 12 17:02:02 2018:	* JTAG Mode   : AUTO
+Wed Sep 12 17:02:02 2018:	* Device      : MSP430G2xx3
+Wed Sep 12 17:02:02 2018:	* EEM         : Level 1, ClockCntrl 1
+Wed Sep 12 17:02:02 2018:	* Erase Mode  : ERASE_ALL
+Wed Sep 12 17:02:02 2018:	* Prog.File   : msp430g2253.hex
+Wed Sep 12 17:02:02 2018:	* Verified    : TRUE
+Wed Sep 12 17:02:02 2018:	* BSL Unlock  : FALSE
+Wed Sep 12 17:02:02 2018:	* InfoA Access: FALSE
+Wed Sep 12 17:02:02 2018:	* VCC ON      : 3000 mV
+Wed Sep 12 17:02:02 2018:	* ----------------------------------------------------------------------------
+Wed Sep 12 17:02:02 2018:	* Starting target code execution...done
+Wed Sep 12 17:02:03 2018:	* Disconnecting from device...done
+Wed Sep 12 17:02:03 2018:	* 
+Wed Sep 12 17:02:03 2018:	* ----------------------------------------------------------------------------
+Wed Sep 12 17:02:03 2018:	* Driver      : closed (No error)
+Wed Sep 12 17:02:03 2018:	* ----------------------------------------------------------------------------
+Wed Sep 12 17:02:03 2018:	*/
+Sun Sep 16 18:59:18 2018:	* -----/|-------------------------------------------------------------------- *
+Sun Sep 16 18:59:18 2018:	*     / |__                                                                   *
+Sun Sep 16 18:59:18 2018:	*    /_   /   MSP Flasher v1.3.18                                             *
+Sun Sep 16 18:59:18 2018:	*      | /                                                                    *
+Sun Sep 16 18:59:18 2018:	* -----|/-------------------------------------------------------------------- *
+Sun Sep 16 18:59:18 2018:	*
+Sun Sep 16 18:59:18 2018:	* Evaluating triggers...done
+Sun Sep 16 18:59:18 2018:	* Checking for available FET debuggers: 
+Sun Sep 16 18:59:19 2018:	* Found USB FET @ ttyACM0 <- Selected
+Sun Sep 16 18:59:19 2018:	* Initializing interface @ ttyACM0...done
+Sun Sep 16 18:59:19 2018:	* Checking firmware compatibility: 
+Sun Sep 16 18:59:19 2018:	* FET firmware is up to date.
+Sun Sep 16 18:59:19 2018:	* Reading FW version...done
+Sun Sep 16 18:59:19 2018:	* Setting VCC to 3000 mV...done
+Sun Sep 16 18:59:22 2018:	* Accessing device...done
+Sun Sep 16 18:59:22 2018:	* Reading device information...
+Sun Sep 16 18:59:22 2018:	* Warning: Found device does not match -n selection:
+Sun Sep 16 18:59:22 2018:	- Selected: MSP430G2253
+Sun Sep 16 18:59:22 2018:	- Found:    MSP430G2xx3
+Sun Sep 16 18:59:22 2018:	- Continue? (Y/N): Sun Sep 16 18:59:24 2018:	y
+Sun Sep 16 18:59:24 2018:	* Loading file into device...done
+Sun Sep 16 18:59:27 2018:	* Verifying memory (msp430g2253.hex)...done
+Sun Sep 16 18:59:28 2018:	* 
+Sun Sep 16 18:59:28 2018:	* ----------------------------------------------------------------------------
+Sun Sep 16 18:59:28 2018:	* Arguments   : -n MSP430G2253 -w msp430g2253.hex -v -z [VCC] 
+Sun Sep 16 18:59:28 2018:	* ----------------------------------------------------------------------------
+Sun Sep 16 18:59:28 2018:	* Driver      : loaded
+Sun Sep 16 18:59:28 2018:	* Dll Version : 31300001
+Sun Sep 16 18:59:28 2018:	* FwVersion   : 31200000
+Sun Sep 16 18:59:28 2018:	* Interface   : TIUSB
+Sun Sep 16 18:59:28 2018:	* HwVersion   : E 6.0
+Sun Sep 16 18:59:28 2018:	* JTAG Mode   : AUTO
+Sun Sep 16 18:59:28 2018:	* Device      : MSP430G2xx3
+Sun Sep 16 18:59:28 2018:	* EEM         : Level 1, ClockCntrl 1
+Sun Sep 16 18:59:28 2018:	* Erase Mode  : ERASE_ALL
+Sun Sep 16 18:59:28 2018:	* Prog.File   : msp430g2253.hex
+Sun Sep 16 18:59:28 2018:	* Verified    : TRUE
+Sun Sep 16 18:59:28 2018:	* BSL Unlock  : FALSE
+Sun Sep 16 18:59:28 2018:	* InfoA Access: FALSE
+Sun Sep 16 18:59:28 2018:	* VCC ON      : 3000 mV
+Sun Sep 16 18:59:28 2018:	* ----------------------------------------------------------------------------
+Sun Sep 16 18:59:28 2018:	* Starting target code execution...done
+Sun Sep 16 18:59:28 2018:	* Disconnecting from device...done
+Sun Sep 16 18:59:28 2018:	* 
+Sun Sep 16 18:59:28 2018:	* ----------------------------------------------------------------------------
+Sun Sep 16 18:59:28 2018:	* Driver      : closed (No error)
+Sun Sep 16 18:59:28 2018:	* ----------------------------------------------------------------------------
+Sun Sep 16 18:59:28 2018:	*/
+Sun Sep 16 19:05:13 2018:	* -----/|-------------------------------------------------------------------- *
+Sun Sep 16 19:05:13 2018:	*     / |__                                                                   *
+Sun Sep 16 19:05:13 2018:	*    /_   /   MSP Flasher v1.3.18                                             *
+Sun Sep 16 19:05:13 2018:	*      | /                                                                    *
+Sun Sep 16 19:05:13 2018:	* -----|/-------------------------------------------------------------------- *
+Sun Sep 16 19:05:13 2018:	*
+Sun Sep 16 19:05:13 2018:	* Evaluating triggers...done
+Sun Sep 16 19:05:13 2018:	* Checking for available FET debuggers: 
+Sun Sep 16 19:05:14 2018:	* Found USB FET @ ttyACM0 <- Selected
+Sun Sep 16 19:05:14 2018:	* Initializing interface @ ttyACM0...done
+Sun Sep 16 19:05:14 2018:	* Checking firmware compatibility: 
+Sun Sep 16 19:05:14 2018:	* FET firmware is up to date.
+Sun Sep 16 19:05:14 2018:	* Reading FW version...done
+Sun Sep 16 19:05:14 2018:	* Setting VCC to 3000 mV...done
+Sun Sep 16 19:05:17 2018:	* Accessing device...done
+Sun Sep 16 19:05:17 2018:	* Reading device information...
+Sun Sep 16 19:05:17 2018:	* Warning: Found device does not match -n selection:
+Sun Sep 16 19:05:17 2018:	- Selected: MSP430F5529
+Sun Sep 16 19:05:17 2018:	- Found:    MSP430G2xx3
+Sun Sep 16 19:05:17 2018:	- Continue? (Y/N): Sun Sep 16 19:05:20 2018:	n
+Sun Sep 16 19:05:20 2018:	* Starting target code execution...done
+Sun Sep 16 19:05:20 2018:	* Disconnecting from device...done
+Sun Sep 16 19:05:20 2018:	* 
+Sun Sep 16 19:05:20 2018:	* ----------------------------------------------------------------------------
+Sun Sep 16 19:05:20 2018:	* Driver      : closed (No error)
+Sun Sep 16 19:05:20 2018:	* ----------------------------------------------------------------------------
+Sun Sep 16 19:05:20 2018:	*/
+Sun Sep 16 19:05:29 2018:	* -----/|-------------------------------------------------------------------- *
+Sun Sep 16 19:05:29 2018:	*     / |__                                                                   *
+Sun Sep 16 19:05:29 2018:	*    /_   /   MSP Flasher v1.3.18                                             *
+Sun Sep 16 19:05:29 2018:	*      | /                                                                    *
+Sun Sep 16 19:05:29 2018:	* -----|/-------------------------------------------------------------------- *
+Sun Sep 16 19:05:29 2018:	*
+Sun Sep 16 19:05:29 2018:	* Evaluating triggers...done
+Sun Sep 16 19:05:29 2018:	* Checking for available FET debuggers: 
+Sun Sep 16 19:05:30 2018:	* Found USB FET @ ttyACM0 <- Selected
+Sun Sep 16 19:05:30 2018:	* Initializing interface @ ttyACM0...done
+Sun Sep 16 19:05:30 2018:	* Checking firmware compatibility: 
+Sun Sep 16 19:05:30 2018:	* The firmware of your FET is outdated.
+Sun Sep 16 19:05:30 2018:	- Would you like to update it? (Y/N): Sun Sep 16 19:05:35 2018:	y
+Sun Sep 16 19:05:35 2018:	
+*********************************************************
+Sun Sep 16 19:05:35 2018:	*                                                        
+Sun Sep 16 19:05:35 2018:	*  Initializing Update Bootloader.                       
+Sun Sep 16 19:05:35 2018:	*  Programming new firmware:                             
+Sun Sep 16 19:05:35 2018:	Sun Sep 16 19:05:35 2018:	*  PROGRESS BAR                                         
+Sun Sep 16 19:05:50 2018:	
+*********************************************************
+Sun Sep 16 19:05:50 2018:	*                                                        
+Sun Sep 16 19:05:50 2018:	*  Initializing Update Bootloader.                       
+Sun Sep 16 19:05:50 2018:	*  Programming new firmware:                             
+Sun Sep 16 19:05:50 2018:	Sun Sep 16 19:05:50 2018:	*  PROGRESS BAR                                         
+Sun Sep 16 19:06:07 2018:	
+*  Update was successfully finished.                   
+Sun Sep 16 19:06:07 2018:	*                                                        
+Sun Sep 16 19:06:07 2018:	*********************************************************
+Sun Sep 16 19:06:07 2018:	
+Sun Sep 16 19:06:07 2018:	*  Exit Update Bootlader and reboot firmware.            
+Sun Sep 16 19:06:08 2018:	* FET firmware is up to date.
+Sun Sep 16 19:06:08 2018:	* Reading FW version...
+Sun Sep 16 19:06:08 2018:	* Debugger does not support target voltages other than 3000 mV!
+Sun Sep 16 19:06:08 2018:	* Setting VCC to 3000 mV...done
+Sun Sep 16 19:06:08 2018:	* Accessing device...done
+Sun Sep 16 19:06:08 2018:	* Reading device information...done
+Sun Sep 16 19:06:08 2018:	* Loading file into device...done
+Sun Sep 16 19:06:11 2018:	* Verifying memory (msp430f5529.hex)...done
+Sun Sep 16 19:06:12 2018:	* 
+Sun Sep 16 19:06:12 2018:	* ----------------------------------------------------------------------------
+Sun Sep 16 19:06:12 2018:	* Arguments   : -n MSP430F5529 -w msp430f5529.hex -v -z [VCC] 
+Sun Sep 16 19:06:12 2018:	* ----------------------------------------------------------------------------
+Sun Sep 16 19:06:12 2018:	* Driver      : loaded
+Sun Sep 16 19:06:12 2018:	* Dll Version : 31300001
+Sun Sep 16 19:06:12 2018:	* FwVersion   : 31200000
+Sun Sep 16 19:06:12 2018:	* Interface   : TIUSB
+Sun Sep 16 19:06:12 2018:	* HwVersion   : E 3.0
+Sun Sep 16 19:06:12 2018:	* JTAG Mode   : AUTO
+Sun Sep 16 19:06:12 2018:	* Device      : MSP430F5529
+Sun Sep 16 19:06:12 2018:	* EEM         : Level 7, ClockCntrl 2
+Sun Sep 16 19:06:12 2018:	* Erase Mode  : ERASE_ALL
+Sun Sep 16 19:06:12 2018:	* Prog.File   : msp430f5529.hex
+Sun Sep 16 19:06:12 2018:	* Verified    : TRUE
+Sun Sep 16 19:06:12 2018:	* BSL Unlock  : FALSE
+Sun Sep 16 19:06:12 2018:	* InfoA Access: FALSE
+Sun Sep 16 19:06:12 2018:	* VCC ON      : 3000 mV
+Sun Sep 16 19:06:12 2018:	* ----------------------------------------------------------------------------
+Sun Sep 16 19:06:12 2018:	* Starting target code execution...done
+Sun Sep 16 19:06:13 2018:	* Disconnecting from device...done
+Sun Sep 16 19:06:13 2018:	* 
+Sun Sep 16 19:06:13 2018:	* ----------------------------------------------------------------------------
+Sun Sep 16 19:06:13 2018:	* Driver      : closed (No error)
+Sun Sep 16 19:06:13 2018:	* ----------------------------------------------------------------------------
+Sun Sep 16 19:06:13 2018:	*/
+Tue Sep 25 21:14:49 2018:	* -----/|-------------------------------------------------------------------- *
+Tue Sep 25 21:14:49 2018:	*     / |__                                                                   *
+Tue Sep 25 21:14:49 2018:	*    /_   /   MSP Flasher v1.3.18                                             *
+Tue Sep 25 21:14:49 2018:	*      | /                                                                    *
+Tue Sep 25 21:14:49 2018:	* -----|/-------------------------------------------------------------------- *
+Tue Sep 25 21:14:49 2018:	*
+Tue Sep 25 21:14:49 2018:	* Evaluating triggers...done
+Tue Sep 25 21:14:49 2018:	* Checking for available FET debuggers: 
+Tue Sep 25 21:14:49 2018:	* Found USB FET @ ttyACM0 <- Selected
+Tue Sep 25 21:14:49 2018:	* Initializing interface @ ttyACM0...done
+Tue Sep 25 21:14:49 2018:	* Checking firmware compatibility: 
+Tue Sep 25 21:14:49 2018:	* FET firmware is up to date.
+Tue Sep 25 21:14:49 2018:	* Reading FW version...
+Tue Sep 25 21:14:49 2018:	* Debugger does not support target voltages other than 3000 mV!
+Tue Sep 25 21:14:49 2018:	* Setting VCC to 3000 mV...done
+Tue Sep 25 21:14:49 2018:	* Accessing device...done
+Tue Sep 25 21:14:49 2018:	* Reading device information...done
+Tue Sep 25 21:14:49 2018:	* Loading file into device...done
+Tue Sep 25 21:14:52 2018:	* Verifying memory (msp430f5529.hex)...done
+Tue Sep 25 21:14:54 2018:	* 
+Tue Sep 25 21:14:54 2018:	* ----------------------------------------------------------------------------
+Tue Sep 25 21:14:54 2018:	* Arguments   : -n MSP430F5529 -w msp430f5529.hex -v -z [VCC] 
+Tue Sep 25 21:14:54 2018:	* ----------------------------------------------------------------------------
+Tue Sep 25 21:14:54 2018:	* Driver      : loaded
+Tue Sep 25 21:14:54 2018:	* Dll Version : 31300001
+Tue Sep 25 21:14:54 2018:	* FwVersion   : 31200000
+Tue Sep 25 21:14:54 2018:	* Interface   : TIUSB
+Tue Sep 25 21:14:54 2018:	* HwVersion   : E 3.0
+Tue Sep 25 21:14:54 2018:	* JTAG Mode   : AUTO
+Tue Sep 25 21:14:54 2018:	* Device      : MSP430F5529
+Tue Sep 25 21:14:54 2018:	* EEM         : Level 7, ClockCntrl 2
+Tue Sep 25 21:14:54 2018:	* Erase Mode  : ERASE_ALL
+Tue Sep 25 21:14:54 2018:	* Prog.File   : msp430f5529.hex
+Tue Sep 25 21:14:54 2018:	* Verified    : TRUE
+Tue Sep 25 21:14:54 2018:	* BSL Unlock  : FALSE
+Tue Sep 25 21:14:54 2018:	* InfoA Access: FALSE
+Tue Sep 25 21:14:54 2018:	* VCC ON      : 3000 mV
+Tue Sep 25 21:14:54 2018:	* ----------------------------------------------------------------------------
+Tue Sep 25 21:14:54 2018:	* Starting target code execution...done
+Tue Sep 25 21:14:54 2018:	* Disconnecting from device...done
+Tue Sep 25 21:14:54 2018:	* 
+Tue Sep 25 21:14:54 2018:	* ----------------------------------------------------------------------------
+Tue Sep 25 21:14:54 2018:	* Driver      : closed (No error)
+Tue Sep 25 21:14:54 2018:	* ----------------------------------------------------------------------------
+Tue Sep 25 21:14:54 2018:	*/
+Tue Sep 25 21:15:36 2018:	* -----/|-------------------------------------------------------------------- *
+Tue Sep 25 21:15:36 2018:	*     / |__                                                                   *
+Tue Sep 25 21:15:36 2018:	*    /_   /   MSP Flasher v1.3.18                                             *
+Tue Sep 25 21:15:36 2018:	*      | /                                                                    *
+Tue Sep 25 21:15:36 2018:	* -----|/-------------------------------------------------------------------- *
+Tue Sep 25 21:15:36 2018:	*
+Tue Sep 25 21:15:36 2018:	* Evaluating triggers...done
+Tue Sep 25 21:15:36 2018:	* Checking for available FET debuggers: 
+Tue Sep 25 21:15:36 2018:	* Found USB FET @ ttyACM0 <- Selected
+Tue Sep 25 21:15:36 2018:	* Initializing interface @ ttyACM0...done
+Tue Sep 25 21:15:36 2018:	* Checking firmware compatibility: 
+Tue Sep 25 21:15:36 2018:	* FET firmware is up to date.
+Tue Sep 25 21:15:36 2018:	* Reading FW version...
+Tue Sep 25 21:15:36 2018:	* Debugger does not support target voltages other than 3000 mV!
+Tue Sep 25 21:15:36 2018:	* Setting VCC to 3000 mV...done
+Tue Sep 25 21:15:36 2018:	* Accessing device...done
+Tue Sep 25 21:15:36 2018:	* Reading device information...done
+Tue Sep 25 21:15:36 2018:	* Loading file into device...done
+Tue Sep 25 21:15:40 2018:	* Verifying memory (msp430f5529.hex)...done
+Tue Sep 25 21:15:41 2018:	* 
+Tue Sep 25 21:15:41 2018:	* ----------------------------------------------------------------------------
+Tue Sep 25 21:15:41 2018:	* Arguments   : -n MSP430F5529 -w msp430f5529.hex -v -z [VCC] 
+Tue Sep 25 21:15:41 2018:	* ----------------------------------------------------------------------------
+Tue Sep 25 21:15:41 2018:	* Driver      : loaded
+Tue Sep 25 21:15:41 2018:	* Dll Version : 31300001
+Tue Sep 25 21:15:41 2018:	* FwVersion   : 31200000
+Tue Sep 25 21:15:41 2018:	* Interface   : TIUSB
+Tue Sep 25 21:15:41 2018:	* HwVersion   : E 3.0
+Tue Sep 25 21:15:41 2018:	* JTAG Mode   : AUTO
+Tue Sep 25 21:15:41 2018:	* Device      : MSP430F5529
+Tue Sep 25 21:15:41 2018:	* EEM         : Level 7, ClockCntrl 2
+Tue Sep 25 21:15:41 2018:	* Erase Mode  : ERASE_ALL
+Tue Sep 25 21:15:41 2018:	* Prog.File   : msp430f5529.hex
+Tue Sep 25 21:15:41 2018:	* Verified    : TRUE
+Tue Sep 25 21:15:41 2018:	* BSL Unlock  : FALSE
+Tue Sep 25 21:15:41 2018:	* InfoA Access: FALSE
+Tue Sep 25 21:15:41 2018:	* VCC ON      : 3000 mV
+Tue Sep 25 21:15:41 2018:	* ----------------------------------------------------------------------------
+Tue Sep 25 21:15:41 2018:	* Starting target code execution...done
+Tue Sep 25 21:15:42 2018:	* Disconnecting from device...done
+Tue Sep 25 21:15:42 2018:	* 
+Tue Sep 25 21:15:42 2018:	* ----------------------------------------------------------------------------
+Tue Sep 25 21:15:42 2018:	* Driver      : closed (No error)
+Tue Sep 25 21:15:42 2018:	* ----------------------------------------------------------------------------
+Tue Sep 25 21:15:42 2018:	*/
+Fri Sep 28 17:30:46 2018:	* -----/|-------------------------------------------------------------------- *
+Fri Sep 28 17:30:46 2018:	*     / |__                                                                   *
+Fri Sep 28 17:30:46 2018:	*    /_   /   MSP Flasher v1.3.18                                             *
+Fri Sep 28 17:30:46 2018:	*      | /                                                                    *
+Fri Sep 28 17:30:46 2018:	* -----|/-------------------------------------------------------------------- *
+Fri Sep 28 17:30:46 2018:	*
+Fri Sep 28 17:30:46 2018:	* Evaluating triggers...done
+Fri Sep 28 17:30:46 2018:	* Checking for available FET debuggers: 
+Fri Sep 28 17:30:46 2018:	* Found USB FET @ ttyACM0 <- Selected
+Fri Sep 28 17:30:46 2018:	* Initializing interface @ ttyACM0...done
+Fri Sep 28 17:30:46 2018:	* Checking firmware compatibility: 
+Fri Sep 28 17:30:46 2018:	* FET firmware is up to date.
+Fri Sep 28 17:30:46 2018:	* Reading FW version...
+Fri Sep 28 17:30:46 2018:	* Debugger does not support target voltages other than 3000 mV!
+Fri Sep 28 17:30:46 2018:	* Setting VCC to 3000 mV...done
+Fri Sep 28 17:30:46 2018:	* Accessing device...done
+Fri Sep 28 17:30:47 2018:	* Reading device information...done
+Fri Sep 28 17:30:47 2018:	* Loading file into device...done
+Fri Sep 28 17:30:50 2018:	* Verifying memory (msp430f5529.hex)...done
+Fri Sep 28 17:30:51 2018:	* 
+Fri Sep 28 17:30:51 2018:	* ----------------------------------------------------------------------------
+Fri Sep 28 17:30:51 2018:	* Arguments   : -n MSP430F5529 -w msp430f5529.hex -v -z [VCC] 
+Fri Sep 28 17:30:51 2018:	* ----------------------------------------------------------------------------
+Fri Sep 28 17:30:51 2018:	* Driver      : loaded
+Fri Sep 28 17:30:51 2018:	* Dll Version : 31300001
+Fri Sep 28 17:30:51 2018:	* FwVersion   : 31200000
+Fri Sep 28 17:30:51 2018:	* Interface   : TIUSB
+Fri Sep 28 17:30:51 2018:	* HwVersion   : E 3.0
+Fri Sep 28 17:30:51 2018:	* JTAG Mode   : AUTO
+Fri Sep 28 17:30:51 2018:	* Device      : MSP430F5529
+Fri Sep 28 17:30:51 2018:	* EEM         : Level 7, ClockCntrl 2
+Fri Sep 28 17:30:51 2018:	* Erase Mode  : ERASE_ALL
+Fri Sep 28 17:30:51 2018:	* Prog.File   : msp430f5529.hex
+Fri Sep 28 17:30:51 2018:	* Verified    : TRUE
+Fri Sep 28 17:30:51 2018:	* BSL Unlock  : FALSE
+Fri Sep 28 17:30:51 2018:	* InfoA Access: FALSE
+Fri Sep 28 17:30:51 2018:	* VCC ON      : 3000 mV
+Fri Sep 28 17:30:51 2018:	* ----------------------------------------------------------------------------
+Fri Sep 28 17:30:51 2018:	* Starting target code execution...done
+Fri Sep 28 17:30:52 2018:	* Disconnecting from device...done
+Fri Sep 28 17:30:52 2018:	* 
+Fri Sep 28 17:30:52 2018:	* ----------------------------------------------------------------------------
+Fri Sep 28 17:30:52 2018:	* Driver      : closed (No error)
+Fri Sep 28 17:30:52 2018:	* ----------------------------------------------------------------------------
+Fri Sep 28 17:30:52 2018:	*/
+Fri Sep 28 17:33:26 2018:	* -----/|-------------------------------------------------------------------- *
+Fri Sep 28 17:33:26 2018:	*     / |__                                                                   *
+Fri Sep 28 17:33:26 2018:	*    /_   /   MSP Flasher v1.3.18                                             *
+Fri Sep 28 17:33:26 2018:	*      | /                                                                    *
+Fri Sep 28 17:33:26 2018:	* -----|/-------------------------------------------------------------------- *
+Fri Sep 28 17:33:26 2018:	*
+Fri Sep 28 17:33:26 2018:	* Evaluating triggers...done
+Fri Sep 28 17:33:26 2018:	* Checking for available FET debuggers: 
+Fri Sep 28 17:33:26 2018:	* Found USB FET @ ttyACM0 <- Selected
+Fri Sep 28 17:33:26 2018:	* Initializing interface @ ttyACM0...done
+Fri Sep 28 17:33:27 2018:	* Checking firmware compatibility: 
+Fri Sep 28 17:33:27 2018:	* FET firmware is up to date.
+Fri Sep 28 17:33:27 2018:	* Reading FW version...
+Fri Sep 28 17:33:27 2018:	* Debugger does not support target voltages other than 3000 mV!
+Fri Sep 28 17:33:27 2018:	* Setting VCC to 3000 mV...done
+Fri Sep 28 17:33:27 2018:	* Accessing device...done
+Fri Sep 28 17:33:27 2018:	* Reading device information...done
+Fri Sep 28 17:33:27 2018:	* Loading file into device...done
+Fri Sep 28 17:33:30 2018:	* Verifying memory (msp430f5529.hex)...done
+Fri Sep 28 17:33:31 2018:	* 
+Fri Sep 28 17:33:31 2018:	* ----------------------------------------------------------------------------
+Fri Sep 28 17:33:31 2018:	* Arguments   : -n MSP430F5529 -w msp430f5529.hex -v -z [VCC] 
+Fri Sep 28 17:33:31 2018:	* ----------------------------------------------------------------------------
+Fri Sep 28 17:33:31 2018:	* Driver      : loaded
+Fri Sep 28 17:33:31 2018:	* Dll Version : 31300001
+Fri Sep 28 17:33:31 2018:	* FwVersion   : 31200000
+Fri Sep 28 17:33:31 2018:	* Interface   : TIUSB
+Fri Sep 28 17:33:31 2018:	* HwVersion   : E 3.0
+Fri Sep 28 17:33:31 2018:	* JTAG Mode   : AUTO
+Fri Sep 28 17:33:31 2018:	* Device      : MSP430F5529
+Fri Sep 28 17:33:31 2018:	* EEM         : Level 7, ClockCntrl 2
+Fri Sep 28 17:33:31 2018:	* Erase Mode  : ERASE_ALL
+Fri Sep 28 17:33:31 2018:	* Prog.File   : msp430f5529.hex
+Fri Sep 28 17:33:31 2018:	* Verified    : TRUE
+Fri Sep 28 17:33:31 2018:	* BSL Unlock  : FALSE
+Fri Sep 28 17:33:31 2018:	* InfoA Access: FALSE
+Fri Sep 28 17:33:31 2018:	* VCC ON      : 3000 mV
+Fri Sep 28 17:33:31 2018:	* ----------------------------------------------------------------------------
+Fri Sep 28 17:33:31 2018:	* Starting target code execution...done
+Fri Sep 28 17:33:32 2018:	* Disconnecting from device...done
+Fri Sep 28 17:33:32 2018:	* 
+Fri Sep 28 17:33:32 2018:	* ----------------------------------------------------------------------------
+Fri Sep 28 17:33:32 2018:	* Driver      : closed (No error)
+Fri Sep 28 17:33:32 2018:	* ----------------------------------------------------------------------------
+Fri Sep 28 17:33:32 2018:	*/
